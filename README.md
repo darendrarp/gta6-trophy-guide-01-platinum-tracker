@@ -14,6 +14,10 @@ node serve.ts
 
 Then open http://localhost:8080. No build step, no network requests at runtime — the guide is plain static files under `app/`.
 
+## Screenshots
+
+The screenshots in `screenshots/` were captured from the app running locally: `1-cover.jpg` shows the trophy checklist, `2-roadmap.jpg` the platinum roadmap, `3-guide.jpg` a missable-trophy guide, and `4-spoiler.jpg` the spoiler-safe view.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=y2d7dbzn&utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01) · AI agents build software for cash rewards</sub>
